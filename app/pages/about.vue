@@ -97,9 +97,10 @@
 
 <script setup>
 useHead({
-  title: '关于我们 - 至臻装饰',
+  title: '关于我们 - 至臻装饰 - 15年匠心筑家历程',
   meta: [
-    { name: 'description', content: '了解至臻装饰的发展历程、核心价值观及专业团队' }
+    { name: 'description', content: '深入了解至臻装饰，我们拥有15年行业深耕经验，累计交付5000+理想家园。秉持诚实守信、追求卓越、以人为本的价值观，为您提供最放心的装修服务。' },
+    { name: 'keywords', content: '装修公司介绍,装修品牌历史,装修团队背景,装修服务承诺,装修施工资质,至臻装饰背景' }
   ]
 })
 </script>

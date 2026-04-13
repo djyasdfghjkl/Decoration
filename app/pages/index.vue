@@ -67,9 +67,10 @@
 
 <script setup>
 useHead({
-  title: '首页 - 至臻装饰',
+  title: '首页 - 至臻装饰 - 专业全屋整装与设计',
   meta: [
-    { name: 'description', content: '至臻装饰为您提供专业的设计与施工服务' }
+    { name: 'description', content: '至臻装饰，专业提供全屋整装、旧房翻新、别墅大宅设计。资深设计团队、环保施工工艺、透明闭口报价，为您打造高品质的理想生活空间。' },
+    { name: 'keywords', content: '全屋整装,装修设计,室内装潢,装修公司推荐,装修方案,施工标准,至臻装饰官网' }
   ]
 })
 </script>
